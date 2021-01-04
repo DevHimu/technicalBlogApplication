@@ -14,6 +14,7 @@ public class HomeController {
     @RequestMapping
     public String getAllPosts()
     {
+        // sample commit
         return "index";
     }
 }
